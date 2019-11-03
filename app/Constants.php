@@ -280,11 +280,11 @@ if (! defined('APP_NAME')) {
     define('SESSION_LAST_REQUEST_PAGE', 'SESSION_LAST_REQUEST_PAGE');
     define('SESSION_LAST_REQUEST_TIME', 'SESSION_LAST_REQUEST_TIME');
 
-    define('CURRENCY_DOLLAR', 1);
+    define('CURRENCY_DOLLAR', 84);
     define('CURRENCY_EURO', 3);
 
-    define('DEFAULT_TIMEZONE', 'US/Eastern');
-    define('DEFAULT_COUNTRY', 840); // United Stated
+    define('DEFAULT_TIMEZONE', 'Africa/Harare');
+    define('DEFAULT_COUNTRY', 894); // United Stated
     define('DEFAULT_CURRENCY', CURRENCY_DOLLAR);
     define('DEFAULT_LANGUAGE', 1); // English
     define('DEFAULT_DATE_FORMAT', 'M j, Y');
