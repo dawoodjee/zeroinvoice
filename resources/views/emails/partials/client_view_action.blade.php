@@ -14,8 +14,8 @@
   },
   "broker": {
     "@type": "Organization",
-    "name": "Invoice Ninja",
-    "url": "{{ NINJA_WEB_URL }}"
+    "name": "Zero Invoice",
+    "url": "https://www.zeroinvoice.com"
   },
   "totalPaymentDue": {
     "@type": "PriceSpecification",
