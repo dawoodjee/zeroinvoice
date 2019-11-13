@@ -51,7 +51,7 @@ There are two types of modules: you can either create a standard module which di
 
 If you're looking for a module to work on you can see suggested issues `listed here <https://github.com/invoiceninja/invoiceninja/issues?q=is%3Aissue+is%3Aopen+label%3A%22custom+module%22>`_.
 
-.. NOTE:: Our module implemention is currenty being actively worked on, you can join the discussion on our Slack group: http://slack.invoiceninja.com/
+.. NOTE:: Our module implemention is currenty being actively worked on, you can join the discussion on our Slack group: http://slack.zeroinvoice.com/
 
 Share Module
 """"""""""""

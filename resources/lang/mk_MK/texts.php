@@ -278,7 +278,7 @@ $LANG = array(
  Про функции, ве молиме следете ги инструкциите на фактурата за да платите
  за една година Pro-level фактурирање. <p/>
  Не можете да ја пронајдете фактурата? Ви треба понатамошна асистенција? Ќе ви помогнеме со задоволство
- --пратете ни е-пошта на contact@invoiceninja.com',
+ --пратете ни е-пошта на contact@zeroinvoice.com',
     'unsaved_changes' => 'Имате незачувани промени',
     'custom_fields' => 'Посебни полиња',
     'company_fields' => 'Полиња за компанијата',
@@ -3036,7 +3036,7 @@ $LANG = array(
     'local_part_unavailable' => 'Name taken',
     'local_part_available' => 'Name available',
     'local_part_invalid' => 'Invalid name (alpha numeric only, no spaces',
-    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.invoiceninja.com',
+    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.zeroinvoice.com',
     'from_name_help' => 'From name is the recognizable sender which is displayed instead of the email address, ie Support Center',
     'local_part_placeholder' => 'YOUR_NAME',
     'from_name_placeholder' => 'Support Center',

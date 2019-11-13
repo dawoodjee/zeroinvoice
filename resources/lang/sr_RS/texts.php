@@ -278,7 +278,7 @@ $LANG = array(
                           Pro mogućnosti, molimo pratite upute za plaćanje godišnje pretplate
                           za  Invoice Ninja Pro plan.<p/>
                           Ne možete naći račun? Trebate dodatnu pomoć? Sa zadovoljstvom ćemo pomoći
-                          -- pošaljite nam e-poštu na contact@invoiceninja.com',
+                          -- pošaljite nam e-poštu na contact@zeroinvoice.com',
     'unsaved_changes' => 'Imate nepohranjenih promjena',
     'custom_fields' => 'Prilagođena polja',
     'company_fields' => 'Polja poduzeća',
@@ -3037,7 +3037,7 @@ $LANG = array(
     'local_part_unavailable' => 'Ime zauzeto',
     'local_part_available' => 'Ime dostupno',
     'local_part_invalid' => 'Nepravilno ime (samo alfanumerici, bez razmaka',
-    'local_part_help' => 'Podesite lokalni port za Vašu dolazeću poštu za podršku, npr. VASE_IME@support.invoiceninja.com',
+    'local_part_help' => 'Podesite lokalni port za Vašu dolazeću poštu za podršku, npr. VASE_IME@support.zeroinvoice.com',
     'from_name_help' => 'Ime pošiljaoca je prepoznatljivo ime koje se prikazuje umesto adrese e-pošte, npr. Korisnički Centar',
     'local_part_placeholder' => 'VASE_IME',
     'from_name_placeholder' => 'Korisnički Centar',

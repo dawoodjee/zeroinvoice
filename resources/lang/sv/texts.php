@@ -277,7 +277,7 @@ $LANG = array(
           Var vänlig och följ instruktionerna på fakturan för att betala för ett års
           Pro fakturering och få tillgång till alla fantastiska Pro-funktioner.<p/>
           Hittar du inte fakturan? Behöver du support? Vi hjälper dig!
-          -- maila oss på contact@invoiceninja.com',
+          -- maila oss på contact@zeroinvoice.com',
     'unsaved_changes' => 'Du har osparade ändringar',
     'custom_fields' => 'Anpassade fält',
     'company_fields' => 'Företagsfält',
@@ -3043,7 +3043,7 @@ Den här funktionen kräver att en produkt skapas och en betalningsgateway är k
     'local_part_unavailable' => 'Name taken',
     'local_part_available' => 'Name available',
     'local_part_invalid' => 'Invalid name (alpha numeric only, no spaces',
-    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.invoiceninja.com',
+    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.zeroinvoice.com',
     'from_name_help' => 'From name is the recognizable sender which is displayed instead of the email address, ie Support Center',
     'local_part_placeholder' => 'YOUR_NAME',
     'from_name_placeholder' => 'Support Center',

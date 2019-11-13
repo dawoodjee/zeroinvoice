@@ -1,7 +1,7 @@
 API
 ===
 
-Invoice Ninja provides a RESTful API, `click here <https://app.invoiceninja.com/api-docs#/>`_ to see the full list of methods available.
+Invoice Ninja provides a RESTful API, `click here <https://app.zeroinvoice.com/api-docs#/>`_ to see the full list of methods available.
 
 To access the API you first need to create a token using the "API Tokens” page under "Advanced Settings”.
 
@@ -10,7 +10,7 @@ To access the API you first need to create a token using the "API Tokens” page
 - **PHP SDK**: https://github.com/invoiceninja/sdk-php
 - **Zend Framework**: https://github.com/alexz707/InvoiceNinjaModule
 
-.. NOTE:: Replace ninja.test with https://app.invoiceninja.com to access a hosted account.
+.. NOTE:: Replace ninja.test with https://app.zeroinvoice.com to access a hosted account.
 
 Reading Data
 """"""""""""

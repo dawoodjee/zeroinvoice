@@ -3030,7 +3030,7 @@ Lorsque les montant apparaîtront sur votre relevé, veuillez revenir sur cette 
     'local_part_unavailable' => 'Nom pris',
     'local_part_available' => 'Nom disponible',
     'local_part_invalid' => 'Nom invalide (alphanumérique seulement, aucun espace',
-    'local_part_help' => 'Personnalisez la partie locale de votre support par courriel, ex. VOTRE_NOM@support.invoiceninja.com',
+    'local_part_help' => 'Personnalisez la partie locale de votre support par courriel, ex. VOTRE_NOM@support.zeroinvoice.com',
     'from_name_help' => 'DE est l\'expéditeur reconnu qui est affiché au lieu de l\'adresse courriel, ex. Centre de soutien',
     'local_part_placeholder' => 'VOTRE_NOM',
     'from_name_placeholder' => 'Centre de Support',

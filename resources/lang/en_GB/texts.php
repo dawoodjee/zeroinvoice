@@ -278,7 +278,7 @@ $LANG = array(
                           Pro features, please follow the instructions on the invoice to pay
                           for a year of Pro-level invoicing.<p/>
                           Can\'t find the invoice? Need further assistance? We\'re happy to help
-                          -- email us at contact@invoiceninja.com',
+                          -- email us at contact@zeroinvoice.com',
     'unsaved_changes' => 'You have unsaved changes',
     'custom_fields' => 'Custom Fields',
     'company_fields' => 'Company Fields',
@@ -3036,7 +3036,7 @@ $LANG = array(
     'local_part_unavailable' => 'Name taken',
     'local_part_available' => 'Name available',
     'local_part_invalid' => 'Invalid name (alpha numeric only, no spaces',
-    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.invoiceninja.com',
+    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.zeroinvoice.com',
     'from_name_help' => 'From name is the recognisable sender which is displayed instead of the email address, ie Support Centre',
     'local_part_placeholder' => 'YOUR_NAME',
     'from_name_placeholder' => 'Support Centre',

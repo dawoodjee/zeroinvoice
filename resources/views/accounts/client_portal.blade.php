@@ -74,7 +74,7 @@
                                 {!! Former::inline_radios('domain_id')
                                         ->label(trans('texts.domain'))
                                         ->radios([
-                                            'invoiceninja.com' => ['value' => \Domain::INVOICENINJA_COM, 'name' => 'domain_id'],
+                                            'zeroinvoice.com' => ['value' => \Domain::INVOICENINJA_COM, 'name' => 'domain_id'],
                                             'invoice.services' => ['value' => \Domain::INVOICE_SERVICES, 'name' => 'domain_id'],
                                         ])->check($account->domain_id)
                                         ->help($account->iframe_url ? 'domain_help_website' : 'domain_help') !!}

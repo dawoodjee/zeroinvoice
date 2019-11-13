@@ -275,7 +275,7 @@ $LANG = array(
     'pro_plan_success' => '感謝您使用 Invoice Ninja 的專業版!<p/>&nbsp;<br/>
                           <b>下一步</b><p/>一份待付的發票已寄送到您的帳號所使用的電子郵件地址
                           欲啟用專業版所有的厲害功能，請依循發票上的指示付款，以使用為期一年的專業級發票開立作業。<p/>
-                         無法找到發票？需要進一步的協助? 我們樂於提供協助-- 請寫電子郵件給我們寄至 contact@invoiceninja.com',
+                         無法找到發票？需要進一步的協助? 我們樂於提供協助-- 請寫電子郵件給我們寄至 contact@zeroinvoice.com',
     'unsaved_changes' => '您有尚未儲存的修改',
     'custom_fields' => '自訂欄位',
     'company_fields' => '公司欄位',
@@ -3033,7 +3033,7 @@ $LANG = array(
     'local_part_unavailable' => '取得的名稱',
     'local_part_available' => '可用的名稱',
     'local_part_invalid' => '名稱無效 (僅限字母數位，無空格)',
-    'local_part_help' => '自訂入站支援電子郵件的本地部分, 即。YOUR_NAME@support.invoiceninja.com',
+    'local_part_help' => '自訂入站支援電子郵件的本地部分, 即。YOUR_NAME@support.zeroinvoice.com',
     'from_name_help' => '寄件者的姓名是顯示的可識別寄件者, 而不是電子郵件地址 (即支援中心)',
     'local_part_placeholder' => '您的姓名',
     'from_name_placeholder' => '支援中心',

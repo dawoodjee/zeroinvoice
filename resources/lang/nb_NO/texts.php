@@ -278,7 +278,7 @@ $LANG = array(
                           Pro-funksjonene, kan du følge instruksjonene på fakturaen til å
                           betale for et år med Pro-nivå funksjoner.<p/>
                           Finner du ikke fakturaen? Trenger du mer hjelp? Vi hjelper deg gjerne om det skulle være noe
-                          -- kontakt oss på contact@invoiceninja.com',
+                          -- kontakt oss på contact@zeroinvoice.com',
     'unsaved_changes' => 'Du har ulagrede endringer',
     'custom_fields' => 'Egendefinerte felt',
     'company_fields' => 'Firmaets felt',
@@ -3036,7 +3036,7 @@ $LANG = array(
     'local_part_unavailable' => 'Name taken',
     'local_part_available' => 'Name available',
     'local_part_invalid' => 'Invalid name (alpha numeric only, no spaces',
-    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.invoiceninja.com',
+    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.zeroinvoice.com',
     'from_name_help' => 'From name is the recognizable sender which is displayed instead of the email address, ie Support Center',
     'local_part_placeholder' => 'YOUR_NAME',
     'from_name_placeholder' => 'Support Center',

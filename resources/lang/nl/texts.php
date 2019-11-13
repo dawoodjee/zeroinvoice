@@ -3028,7 +3028,7 @@ Kom terug naar deze betalingsmethode pagina zodra u de bedragen heeft ontvangen 
     'local_part_unavailable' => 'Naam reeds in gebruik',
     'local_part_available' => 'Naam beschikbaar',
     'local_part_invalid' => 'Ongeldige naam (alleen alfanumeriek, geen spaties',
-    'local_part_help' => 'Personaliseer het eerste deel van het inkomende e-mailadres, vb. JOUW_NAAM@support.invoiceninja.com',
+    'local_part_help' => 'Personaliseer het eerste deel van het inkomende e-mailadres, vb. JOUW_NAAM@support.zeroinvoice.com',
     'from_name_help' => 'De \'van\'-naam is de herkenbare afzender die wordt getoond in plaats van het e-mailadres, zoals Helpdesk',
     'local_part_placeholder' => 'JOUW_NAAM',
     'from_name_placeholder' => 'Support centrum',

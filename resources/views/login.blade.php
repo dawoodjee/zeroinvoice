@@ -19,7 +19,7 @@
         <div class="container-fluid">
             <div class="row header">
                 <div class="col-md-6 col-xs-12 text-center">
-                    <a href="https://www.invoiceninja.com/" target="_blank">
+                    <a href="https://www.zeroinvoice.com/" target="_blank">
                         <img width="231" src="{{ asset('images/invoiceninja-logox53.png') }}"/>
                     </a>
                 </div>

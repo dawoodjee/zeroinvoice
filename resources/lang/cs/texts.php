@@ -277,7 +277,7 @@ $LANG = array(
                           Pro povolení všech skvělých profi vlastností si prosím přečtěte instrukce pro provedení platby na zaslané faktuře
                           pro roční využívání Profi plánu.<p/>
                           Nemůžete fakturu najít? Potřebujete pomoc? Rádi Vám pomůžeme na
-                          -- emailu contact@invoiceninja.com',
+                          -- emailu contact@zeroinvoice.com',
     'unsaved_changes' => 'Máte neuložené změny',
     'custom_fields' => 'Volitelná pole',
     'company_fields' => 'Pole pro firmu',
@@ -3038,7 +3038,7 @@ $LANG = array(
     'local_part_unavailable' => 'Name taken',
     'local_part_available' => 'Name available',
     'local_part_invalid' => 'Invalid name (alpha numeric only, no spaces',
-    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.invoiceninja.com',
+    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.zeroinvoice.com',
     'from_name_help' => 'From name is the recognizable sender which is displayed instead of the email address, ie Support Center',
     'local_part_placeholder' => 'YOUR_NAME',
     'from_name_placeholder' => 'Support Center',

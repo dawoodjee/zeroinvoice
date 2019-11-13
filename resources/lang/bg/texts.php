@@ -279,7 +279,7 @@ $LANG = array(
                           За да отключите всички Pro функционалности, моля следвайте инструкциите 
 във фактурата, за да платите за една година Pro план<p/>
                           Не можете да намерите фактурата? Имате нужда от помощ? Ние сме тук за да помогнем!
-                          -- Пишете ни на contact@invoiceninja.com',
+                          -- Пишете ни на contact@zeroinvoice.com',
     'unsaved_changes' => 'Имате незапазени промени',
     'custom_fields' => 'Собствени полета',
     'company_fields' => 'Фирмени полета',
@@ -3037,7 +3037,7 @@ $LANG = array(
     'local_part_unavailable' => 'Името е заето',
     'local_part_available' => 'Името е свободно',
     'local_part_invalid' => 'Невалидно име (само букви и цифри, без интервали)',
-    'local_part_help' => 'Персонализирайте локалната част от Вашия имейл адрес за поддръжка, напр. YOUR_NAME@support.invoiceninja.com',
+    'local_part_help' => 'Персонализирайте локалната част от Вашия имейл адрес за поддръжка, напр. YOUR_NAME@support.zeroinvoice.com',
     'from_name_help' => 'From name е името на получателя / изпращача, което се изписва вместо имейл адреса му, напр. Support Center',
     'local_part_placeholder' => 'YOUR_NAME',
     'from_name_placeholder' => 'Център за поддръжка',

@@ -5,7 +5,7 @@ Update
 
 To update the app you just need to copy over the latest code. The app tracks the current version in a file called version.txt, if it notices a change it loads ``/update`` to run the database migrations.
 
-https://download.invoiceninja.com
+https://download.zeroinvoice.com
 
 If you have trouble updating you can manually load /update to check for errors.
 

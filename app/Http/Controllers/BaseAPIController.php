@@ -27,7 +27,7 @@ use Utils;
  *         description="An open-source invoicing and time-tracking app built with Laravel",
  *         termsOfService="",
  *         @SWG\Contact(
- *             email="contact@invoiceninja.com"
+ *             email="contact@zeroinvoice.com"
  *         ),
  *         @SWG\License(
  *             name="Attribution Assurance License",
@@ -36,7 +36,7 @@ use Utils;
  *     ),
  *     @SWG\ExternalDocumentation(
  *         description="Find out more about Invoice Ninja",
- *         url="https://www.invoiceninja.com"
+ *         url="https://www.zeroinvoice.com"
  *     ),
  *     security={"api_key": {}},
  *     @SWG\SecurityScheme(

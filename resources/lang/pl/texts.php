@@ -276,7 +276,7 @@ Przykłady dynamicznych zmiennych:
                           Pro features, please follow the instructions on the invoice to pay
                           for a year of Pro-level invoicing.<p/>
                           Can\'t find the invoice? Need further assistance? We\'re happy to help
-                          -- email us at contact@invoiceninja.com',
+                          -- email us at contact@zeroinvoice.com',
     'unsaved_changes' => 'Masz niezapisane zmiany',
     'custom_fields' => 'Dostosowane pola',
     'company_fields' => 'Pola firmy',
@@ -3033,7 +3033,7 @@ Gdy przelewy zostaną zaksięgowane na Twoim koncie, wróć do tej strony i klik
     'local_part_unavailable' => 'Name taken',
     'local_part_available' => 'Name available',
     'local_part_invalid' => 'Invalid name (alpha numeric only, no spaces',
-    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.invoiceninja.com',
+    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.zeroinvoice.com',
     'from_name_help' => 'From name is the recognizable sender which is displayed instead of the email address, ie Support Center',
     'local_part_placeholder' => 'YOUR_NAME',
     'from_name_placeholder' => 'Support Center',

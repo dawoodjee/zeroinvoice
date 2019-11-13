@@ -274,7 +274,7 @@ $LANG = array(
     'pro_plan_product' => 'Pro paket',
     'pro_plan_success' => 'Zahvaljujemo se vam za izbiro Invoice Ninja Pro paketa!<p/>&nbsp;<br/>
 <b>Naslednji Koraki</b><p/>Račun je bilo poslan na e-poštni naslov, povezan z vašim računom. Če želite odkleniti vse mega Pro funkcije, sledite navodilom na računu.<p/>
-Ne morete najti računa? Potrebujete dodatno pomoč? Z veseljem bomo pomagali. Pošljite nam e-pošto na contact@invoiceninja.com',
+Ne morete najti računa? Potrebujete dodatno pomoč? Z veseljem bomo pomagali. Pošljite nam e-pošto na contact@zeroinvoice.com',
     'unsaved_changes' => 'Imate neshranjene spremembe',
     'custom_fields' => 'Polja po meri',
     'company_fields' => 'Polja podjetja',
@@ -3033,7 +3033,7 @@ Ko imate zneske, se vrnite na to stran plačilnega sredstva in kliknite na "Comp
     'local_part_unavailable' => 'Name taken',
     'local_part_available' => 'Name available',
     'local_part_invalid' => 'Invalid name (alpha numeric only, no spaces',
-    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.invoiceninja.com',
+    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.zeroinvoice.com',
     'from_name_help' => 'From name is the recognizable sender which is displayed instead of the email address, ie Support Center',
     'local_part_placeholder' => 'YOUR_NAME',
     'from_name_placeholder' => 'Support Center',

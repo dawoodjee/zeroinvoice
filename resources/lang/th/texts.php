@@ -278,7 +278,7 @@ $LANG = array(
 โปรดปฏิบัติตามคำแนะนำในใบแจ้งหนี้ที่จะชำระแล้ว
 ใช้ได้เป็นเวลาหนึ่งปีสำหรับการชำระเงิน.<p/>
 ไม่พบใบแจ้งหนี้ใช่หรือไม่? ต้องการความช่วยเหลือเพิ่มเติมหรือไม่? เรายินดีที่จะช่วยเหลือ
--- ส่งอีเมลมาที่ contact@invoiceninja.com',
+-- ส่งอีเมลมาที่ contact@zeroinvoice.com',
     'unsaved_changes' => 'คุณยังไม่ได้บันทึกการเปลี่ยนแปลงที่เกิดขึ้น',
     'custom_fields' => 'ฟิลด์ที่กำหนดเอง',
     'company_fields' => 'เขตข้อมูลของ บริษัท',
@@ -3038,7 +3038,7 @@ $LANG = array(
     'local_part_unavailable' => 'Name taken',
     'local_part_available' => 'Name available',
     'local_part_invalid' => 'Invalid name (alpha numeric only, no spaces',
-    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.invoiceninja.com',
+    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.zeroinvoice.com',
     'from_name_help' => 'From name is the recognizable sender which is displayed instead of the email address, ie Support Center',
     'local_part_placeholder' => 'YOUR_NAME',
     'from_name_placeholder' => 'Support Center',

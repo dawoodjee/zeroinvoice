@@ -277,7 +277,7 @@ $LANG = array(
                           electrónico asociado con tu cuenta. Para desbloquear todas las increíbles funciones del plan Pro, por favor sigue las instrucciones en la factura para pagar
                           por un año del plan Pro.<p/>
                           No puedes encontrar la factura ? Necesitas más ayuda? Estamos felices de ayudarte
-                          -- mándanos un correo a contact@invoiceninja.com',
+                          -- mándanos un correo a contact@zeroinvoice.com',
     'unsaved_changes' => 'Tienes cambios no guardados',
     'custom_fields' => 'Campos personalizados',
     'company_fields' => 'Campos de la empresa',
@@ -1948,7 +1948,7 @@ $LANG = array(
     'upgrade_for_features' => 'Actualícese De Versión Para Más Funcionalidades',
     'pay_annually_discount' => 'Pague anualmente por 10 meses y obtenga 2 gratis!',
     'pro_upgrade_title' => 'Ninja Pro',
-    'pro_upgrade_feature1' => 'SuMarca.invoiceninja.com',
+    'pro_upgrade_feature1' => 'SuMarca.zeroinvoice.com',
     'pro_upgrade_feature2' => 'Personalice cada aspecto de su factura!',
     'enterprise_upgrade_feature1' => 'Asigne permisos para múltiples usuarios',
     'enterprise_upgrade_feature2' => 'Adjunte archivos de terceros a facturas y gastos',
@@ -3034,7 +3034,7 @@ $LANG = array(
     'local_part_unavailable' => 'Name taken',
     'local_part_available' => 'Name available',
     'local_part_invalid' => 'Invalid name (alpha numeric only, no spaces',
-    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.invoiceninja.com',
+    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.zeroinvoice.com',
     'from_name_help' => 'From name is the recognizable sender which is displayed instead of the email address, ie Support Center',
     'local_part_placeholder' => 'YOUR_NAME',
     'from_name_placeholder' => 'Support Center',

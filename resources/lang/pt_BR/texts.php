@@ -275,7 +275,7 @@ $LANG = array(
     'pro_plan_success' => 'Obrigado por escolher o Plano Pro do Invoice Ninja! <p/>&nbsp;<br/>
 <b>Próximos Passos</b><p/>Uma fatura pagável foi enviada para o email endereço associado com sua conta. Para desbloquear todas as incríveis funcionalidades Pro, por favor siga as instruções na fatura para pagar por um ano de faturamento Pro.<p/>
 Não consegue achar a fatura? Precisa de mais ajuda? Ficaremos feliz em ajudar
--- envie-nos um email em contact@invoiceninja.com',
+-- envie-nos um email em contact@zeroinvoice.com',
     'unsaved_changes' => 'Você possui alterações não salvas',
     'custom_fields' => 'Campos Personalizados',
     'company_fields' => 'Campos da Empresa',
@@ -3030,7 +3030,7 @@ Quando tiver as quantias, volte a esta página de formas de pagamento e clique "
     'local_part_unavailable' => 'Nome tomado',
     'local_part_available' => 'Nome disponível',
     'local_part_invalid' => 'Nome inválido (apenas alfanuméricos, sem espaços)',
-    'local_part_help' => 'Personalizar a parte local de sua caixa de email de entrada. Ex: SEU_NOME@support.invoiceninja.com',
+    'local_part_help' => 'Personalizar a parte local de sua caixa de email de entrada. Ex: SEU_NOME@support.zeroinvoice.com',
     'from_name_help' => 'Nome do remetente é o texto disponibilizado para ser mostrado ao invés do endereço de email. Ex: Centro de Suporte',
     'local_part_placeholder' => 'SEU_NOME',
     'from_name_placeholder' => 'Centro de Suporte',

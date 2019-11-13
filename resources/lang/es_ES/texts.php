@@ -3026,7 +3026,7 @@ Una vez que tenga los montos, vuelva a esta página de métodos de pago y haga c
     'local_part_unavailable' => 'Nombre asignado',
     'local_part_available' => 'Nombre disponible',
     'local_part_invalid' => 'Nombre inválido (caracteres alfanuméricos sólo, sin espacios',
-    'local_part_help' => 'Personaliza la parte local de tu email de soporte de entrada, p.ej, TU_NOMBRE@support.invoiceninja.com',
+    'local_part_help' => 'Personaliza la parte local de tu email de soporte de entrada, p.ej, TU_NOMBRE@support.zeroinvoice.com',
     'from_name_help' => 'El nombre de remitente es el nombre que se muestra en vez de la dirección de email, p. ej. Centro de Soporte',
     'local_part_placeholder' => 'TU_NOMBRE',
     'from_name_placeholder' => 'Centro de Soporte',

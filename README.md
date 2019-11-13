@@ -7,21 +7,21 @@
 [![Build Status](https://travis-ci.org/invoiceninja/invoiceninja.svg?branch=master)](https://travis-ci.org/invoiceninja/invoiceninja)
 [![Docs](https://readthedocs.org/projects/invoice-ninja/badge/?version=latest)](https://invoice-ninja.readthedocs.io/en/latest/?badge=latest)
 
-## [Hosted](https://www.invoiceninja.com) | [Self-Hosted](https://www.invoiceninja.org)
+## [Hosted](https://www.zeroinvoice.com) | [Self-Hosted](https://www.invoiceninja.org)
 
-### We're on Slack, join us at [slack.invoiceninja.com](http://slack.invoiceninja.com)
+### We're on Slack, join us at [slack.zeroinvoice.com](http://slack.zeroinvoice.com)
 
 All Pro and Enterprise features from the hosted app are included in the open-source code. We offer a $20 per year white-label license to remove our branding for personal use.
 
 The self-host zip includes all third party libraries whereas downloading the code from GitHub requires using Composer to install the dependencies.
 
-* [Features](https://www.invoiceninja.com/invoicing-features/)
+* [Features](https://www.zeroinvoice.com/invoicing-features/)
 * [Videos](https://www.youtube.com/channel/UCXAHcBvhW05PDtWYIq7WDFA/videos)
 * [User Guide](https://invoice-ninja.readthedocs.io/en/latest/)
-* [Support Forum](https://www.invoiceninja.com/forums/forum/support/)
+* [Support Forum](https://www.zeroinvoice.com/forums/forum/support/)
 
 ## Referral Program
-* Earn 50% of Pro & Enterprise Plans up to 4 years - [Learn more](https://www.invoiceninja.com/referral-program/)
+* Earn 50% of Pro & Enterprise Plans up to 4 years - [Learn more](https://www.zeroinvoice.com/referral-program/)
 
 ## Mobile App
 * [iPhone](https://itunes.apple.com/us/app/invoice-ninja/id1435514417?ls=1&mt=8)

@@ -48,7 +48,7 @@ class PaymentCreated extends Notification implements ShouldQueue
 
         return (new SlackMessage)
                     ->from(APP_NAME)
-                    ->image('https://app.invoiceninja.com/favicon-v2.png')
+                    ->image('https://app.zeroinvoice.com/favicon-v2.png')
                     ->content(trans('texts.received_new_payment'))
                     ->attachment(function ($attachment) {
                         $invoiceName = $this->invoice->present()->titledName;

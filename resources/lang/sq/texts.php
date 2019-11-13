@@ -275,7 +275,7 @@ $LANG = array(
     'pro_plan_success' => 'Ju faleminderit që keni zgjedhur Invoice Ninja Pro plan!<p/>&nbsp;<br/>
                           <b>Next Steps</b><p/>Një faturë për pagesë ju është dërguar në email. Për të përdorur të gjitha opsionet e paketës Pro, ju lutem përcjellni udhëzimet në faturë për të realizuar pagesën.<p/>
                           Nuk mund ta gjeni faturën? Ju duhet asistencë shtesë? Jemi të lumtur t\'ju ndihmojmë
-                          -- na dërgoni email në contact@invoiceninja.com',
+                          -- na dërgoni email në contact@zeroinvoice.com',
     'unsaved_changes' => 'Keni ndryshime të pa ruajtura',
     'custom_fields' => 'Fushat e ndryshueshme',
     'company_fields' => 'Fushat e kompanisë',
@@ -3034,7 +3034,7 @@ Pasi të keni pranuar shumat, kthehuni në faqen e metodave të pagesës dhe kli
     'local_part_unavailable' => 'Name taken',
     'local_part_available' => 'Name available',
     'local_part_invalid' => 'Invalid name (alpha numeric only, no spaces',
-    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.invoiceninja.com',
+    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.zeroinvoice.com',
     'from_name_help' => 'From name is the recognizable sender which is displayed instead of the email address, ie Support Center',
     'local_part_placeholder' => 'YOUR_NAME',
     'from_name_placeholder' => 'Support Center',

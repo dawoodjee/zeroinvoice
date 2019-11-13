@@ -277,7 +277,7 @@ $LANG = array(
 adresine gönderildi. Müthiş tüm özelliklerin kilidini açmak için lütfen bir yıl boyunca
  Pro-level faturalandırmayla ödenecek faturadaki talimatları izleyin.<p/>
                           Faturayı bulamıyor musunuz? Daha fazla yardıma mı ihtiyacınız var? Yardım etmekten mutluluk duyarız
-                          --contact@invoiceninja.com adresine e-posta gönderebilirsiniz.',
+                          --contact@zeroinvoice.com adresine e-posta gönderebilirsiniz.',
     'unsaved_changes' => 'Kaydedilmemiş değişiklikleriniz var',
     'custom_fields' => 'Özel Alanlar',
     'company_fields' => 'Firma Alanları',
@@ -3035,7 +3035,7 @@ adresine gönderildi. Müthiş tüm özelliklerin kilidini açmak için lütfen 
     'local_part_unavailable' => 'Name taken',
     'local_part_available' => 'Name available',
     'local_part_invalid' => 'Invalid name (alpha numeric only, no spaces',
-    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.invoiceninja.com',
+    'local_part_help' => 'Customize the local part of your inbound support email, ie. YOUR_NAME@support.zeroinvoice.com',
     'from_name_help' => 'From name is the recognizable sender which is displayed instead of the email address, ie Support Center',
     'local_part_placeholder' => 'YOUR_NAME',
     'from_name_placeholder' => 'Support Center',

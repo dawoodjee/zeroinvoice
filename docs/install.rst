@@ -40,7 +40,7 @@ Step 1: Download the code
 
 You can either download the zip file below or checkout the code from our GitHub repository. The zip includes all third party libraries whereas using GitHub requires you to use Composer to install the dependencies.
 
-https://download.invoiceninja.com
+https://download.zeroinvoice.com
 
 .. Note:: All Pro and Enterprise features from our hosted app are included in both the zip file and the GitHub repository. We offer a $20 per year white-label license to remove our branding.
 
@@ -75,7 +75,7 @@ See the guides listed above for detailed information on configuring Apache or Ng
 
 Once you can access the site the initial setup screen will enable you to configure the database and email settings as well as create the initial admin user.
 
-.. Tip:: To remove public/ from the URL map the webroot to the /public folder, alternatively you can uncomment ``RewriteRule ^(.*)$ public/$1 [L]`` in the .htaccess file. There is more info `here <https://www.invoiceninja.com/forums/topic/clean-4-4-3-self-hosted-install-url-configuration-clarification/#post-14186>`_.
+.. Tip:: To remove public/ from the URL map the webroot to the /public folder, alternatively you can uncomment ``RewriteRule ^(.*)$ public/$1 [L]`` in the .htaccess file. There is more info `here <https://www.zeroinvoice.com/forums/topic/clean-4-4-3-self-hosted-install-url-configuration-clarification/#post-14186>`_.
 
 Step 5: Configure the application
 """""""""""""""""""""""""""""""""

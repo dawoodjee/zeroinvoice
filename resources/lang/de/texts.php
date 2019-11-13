@@ -3037,7 +3037,7 @@ Sobald Sie die Beträge erhalten haben, kommen Sie bitte wieder zurück zu diese
     'local_part_unavailable' => 'Name übernommen',
     'local_part_available' => 'Name verfügbar',
     'local_part_invalid' => 'Ungültiger Name (nur alphanumerisch, keine Leerzeichen)',
-    'local_part_help' => 'Passen Sie den lokalen Teil Ihrer Inbound-Support-E-Mail an, z.B. YOUR_NAME@support.invoiceninja.com',
+    'local_part_help' => 'Passen Sie den lokalen Teil Ihrer Inbound-Support-E-Mail an, z.B. YOUR_NAME@support.zeroinvoice.com',
     'from_name_help' => '"Von Name" ist der erkennbare Absender, der anstelle der E-Mail-Adresse angezeigt wird, z.B. "Support Center".',
     'local_part_placeholder' => 'YOUR_NAME',
     'from_name_placeholder' => 'Support Center',
