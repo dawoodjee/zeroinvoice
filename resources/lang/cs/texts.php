@@ -238,7 +238,7 @@ $LANG = array(
     'archived_vendors' => ':count dodavatelů bylo úspěšně archivováno',
     'deleted_vendor' => 'Dodavatel úspěšně smazán',
     'deleted_vendors' => ':count dodavatelů bylo úspěšně smazáno',
-    'confirmation_subject' => 'ZerosInvoice účet - ověření',
+    'confirmation_subject' => 'Zero Invoice účet - ověření',
     'confirmation_header' => 'Ověření účtu',
     'confirmation_message' => 'Prosím klikněte na odkaz níže pro potvrzení Vašeho účtu.',
     'invoice_subject' => 'Nová faktura :number od :account',
@@ -247,7 +247,7 @@ $LANG = array(
     'payment_message' => 'Děkujeme za Vaši platbu vy výši :amount.',
     'email_salutation' => 'Vážený(á) :name,',
     'email_signature' => 'S pozdravem,',
-    'email_from' => 'Tým ZerosInvoice',
+    'email_from' => 'Tým Zero Invoice',
     'invoice_link_message' => 'Pro zobrazení faktury klikněte na odkaz níže:',
     'notification_invoice_paid_subject' => 'Faktura :invoice byla zaplacena klientem :client',
     'notification_invoice_sent_subject' => 'Faktura :invoice byla odeslána klientovi :client',
@@ -272,7 +272,7 @@ $LANG = array(
     'erase_data' => 'Váš účet není zaregistrován, toto permanentně smaže Vaše data.',
     'password' => 'Heslo',
     'pro_plan_product' => 'Profi plán',
-    'pro_plan_success' => 'Děkujeme za použití Profi plánu od ZerosInvoice!<p/>&nbsp;<br/>
+    'pro_plan_success' => 'Děkujeme za použití Profi plánu od Zero Invoice!<p/>&nbsp;<br/>
                           <b>Další kroky</b><p/>Faktura k úhradě Vám byla zaslána na email spojený s tímto účtem.
                           Pro povolení všech skvělých profi vlastností si prosím přečtěte instrukce pro provedení platby na zaslané faktuře
                           pro roční využívání Profi plánu.<p/>
@@ -521,8 +521,8 @@ $LANG = array(
     'duplicate_post' => 'Varování: předchozí stránka byla odeslána dvakrát. Druhé odeslání bylo ignorováno.',
     'view_documentation' => 'Zobrazit dokumentaci',
     'app_title' => 'Open source online fakrurace',
-    'app_description' => 'ZerosInvoice je bezplatné open-source řešení pro fakturaci a účtování zákazníkům.
-    S ZerosInvoice, můžete jednoduše vytvářet a posílat hezké faktury z jakéhokoli zařízení, které má přístup na web. Vaši klienti si mohou faktury
+    'app_description' => 'Zero Invoice je bezplatné open-source řešení pro fakturaci a účtování zákazníkům.
+    S Zero Invoice, můžete jednoduše vytvářet a posílat hezké faktury z jakéhokoli zařízení, které má přístup na web. Vaši klienti si mohou faktury
      vytisknout, stáhnout jako PDF nebo Vám rovnou online zaplatit.',
     'rows' => 'řádky',
     'www' => 'www',
@@ -599,7 +599,7 @@ $LANG = array(
     'pro_plan_feature1' => 'Neomezené množství klientů',
     'pro_plan_feature2' => 'Přístup k 10 nádherným šablonám faktur',
     'pro_plan_feature3' => 'Volitelné URLs - "vaseznacka.InvoiceNinja.com"',
-    'pro_plan_feature4' => 'Odstranit "Vytvořeno ZerosInvoice"',
+    'pro_plan_feature4' => 'Odstranit "Vytvořeno Zero Invoice"',
     'pro_plan_feature5' => 'Přístup více uživatelů & sledování aktivit',
     'pro_plan_feature6' => 'Vytváření nabídek & proforem',
     'pro_plan_feature7' => 'Úprava popisu polí faktur  & číslování',
@@ -1034,7 +1034,7 @@ $LANG = array(
     'overdue' => 'Po termínu',
 
 
-    'white_label_text' => 'Purchase a ONE YEAR white label license for $:price to remove the ZerosInvoice branding from the invoice and client portal.',
+    'white_label_text' => 'Purchase a ONE YEAR white label license for $:price to remove the Zero Invoice branding from the invoice and client portal.',
     'user_email_footer' => 'Pro úpravu emailových notifikací prosím navštivte :link',
     'reset_password_footer' => 'Pokud jste nepožádali o resetování hesla, prosím kontaktujte naši podporu na: :email',
     'limit_users' => 'Omlouváme se, to už přesáhlo limit :limit uživatelů',
@@ -1045,7 +1045,7 @@ $LANG = array(
     'bank_accounts_help' => 'Connect a bank account to automatically import expenses and create vendors. Supports American Express and :link.',
     'us_banks' => '400+ US banks',
 
-    'pro_plan_remove_logo' => ':link pro odstranění loga ZerosInvoice připojením se k profi plánu',
+    'pro_plan_remove_logo' => ':link pro odstranění loga Zero Invoice připojením se k profi plánu',
     'pro_plan_remove_logo_link' => 'Klikněte zde',
     'invitation_status_sent' => 'Sent',
     'invitation_status_opened' => 'Opened',
@@ -1194,11 +1194,11 @@ $LANG = array(
 
     'white_label_button' => 'White Label',
 
-    'pro_plan_year_description' => 'One year enrollment in the ZerosInvoice Pro Plan.',
-    'pro_plan_month_description' => 'One month enrollment in the ZerosInvoice Pro Plan.',
+    'pro_plan_year_description' => 'One year enrollment in the Zero Invoice Pro Plan.',
+    'pro_plan_month_description' => 'One month enrollment in the Zero Invoice Pro Plan.',
     'enterprise_plan_product' => 'Enterprise Plan',
-    'enterprise_plan_year_description' => 'One year enrollment in the ZerosInvoice Enterprise Plan.',
-    'enterprise_plan_month_description' => 'One month enrollment in the ZerosInvoice Enterprise Plan.',
+    'enterprise_plan_year_description' => 'One year enrollment in the Zero Invoice Enterprise Plan.',
+    'enterprise_plan_month_description' => 'One month enrollment in the Zero Invoice Enterprise Plan.',
     'plan_credit_product' => 'Credit',
     'plan_credit_description' => 'Credit for unused time',
     'plan_pending_monthly' => 'Will switch to monthly on :date',
@@ -1371,7 +1371,7 @@ $LANG = array(
     'products_will_create' => 'products will be created',
     'product_key' => 'Product',
     'created_products' => 'Successfully created/updated :count product(s)',
-    'export_help' => 'Use JSON if you plan to import the data into ZerosInvoice.<br/>The file includes clients, products, invoices, quotes and payments.',
+    'export_help' => 'Use JSON if you plan to import the data into Zero Invoice.<br/>The file includes clients, products, invoices, quotes and payments.',
     'selfhost_export_help' => '<br/>We recommend using mysqldump to create a full backup.',
     'JSON_file' => 'JSON File',
 
@@ -1845,7 +1845,7 @@ $LANG = array(
     'buy_now_buttons_disabled' => 'This feature requires that a product is created and a payment gateway is configured.',
     'enable_buy_now_buttons_help' => 'Enable support for buy now buttons',
     'changes_take_effect_immediately' => 'Note: changes take effect immediately',
-    'wepay_account_description' => 'Payment gateway for ZerosInvoice',
+    'wepay_account_description' => 'Payment gateway for Zero Invoice',
     'payment_error_code' => 'There was an error processing your payment [:code]. Please try again later.',
     'standard_fees_apply' => 'Fee: 2.9%/1.2% [Credit Card/Bank Transfer] + $0.30 per successful charge.',
     'limit_import_rows' => 'Data needs to be imported in batches of :count rows or less',
@@ -1867,13 +1867,13 @@ $LANG = array(
     'bot_emailed_notify_paid' => 'I\'ll email you when it\'s paid.',
     'add_product_to_invoice' => 'Add 1 :product',
     'not_authorized' => 'You are not authorized',
-    'bot_get_email' => 'Hi! (wave)<br/>Thanks for trying the ZerosInvoice Bot.<br/>You need to create a free account to use this bot.<br/>Send me your account email address to get started.',
+    'bot_get_email' => 'Hi! (wave)<br/>Thanks for trying the Zero Invoice Bot.<br/>You need to create a free account to use this bot.<br/>Send me your account email address to get started.',
     'bot_get_code' => 'Thanks! I\'ve sent a you an email with your security code.',
     'bot_welcome' => 'That\'s it, your account is verified.<br/>',
     'email_not_found' => 'I wasn\'t able to find an available account for :email',
     'invalid_code' => 'The code is not correct',
-    'security_code_email_subject' => 'Security code for ZerosInvoice Bot',
-    'security_code_email_line1' => 'This is your ZerosInvoice Bot security code.',
+    'security_code_email_subject' => 'Security code for Zero Invoice Bot',
+    'security_code_email_line1' => 'This is your Zero Invoice Bot security code.',
     'security_code_email_line2' => 'Note: it will expire in 10 minutes.',
     'bot_help_message' => 'I currently support:<br/>• Create\update\email an invoice<br/>• List products<br/>For example:<br/><i>invoice bob for 2 tickets, set the due date to next thursday and the discount to 10 percent</i>',
     'list_products' => 'List Products',
@@ -1884,10 +1884,10 @@ $LANG = array(
 
     'warning' => 'Warning',
     'self-update' => 'Update',
-    'update_invoiceninja_title' => 'Update ZerosInvoice',
-    'update_invoiceninja_warning' => 'Before start upgrading ZerosInvoice create a backup of your database and files!',
-    'update_invoiceninja_available' => 'A new version of ZerosInvoice is available.',
-    'update_invoiceninja_unavailable' => 'No new version of ZerosInvoice available.',
+    'update_invoiceninja_title' => 'Update Zero Invoice',
+    'update_invoiceninja_warning' => 'Before start upgrading Zero Invoice create a backup of your database and files!',
+    'update_invoiceninja_available' => 'A new version of Zero Invoice is available.',
+    'update_invoiceninja_unavailable' => 'No new version of Zero Invoice available.',
     'update_invoiceninja_instructions' => 'Please install the new version <strong>:version</strong> by clicking the <em>Update now</em> button below. Afterwards you\'ll be redirected to the dashboard.',
     'update_invoiceninja_update_start' => 'Update now',
     'update_invoiceninja_download_start' => 'Download :version',

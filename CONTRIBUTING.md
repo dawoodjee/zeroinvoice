@@ -1,4 +1,4 @@
-# Contributing to ZerosInvoice
+# Contributing to Zero Invoice
 
 Thanks for your contributions!
 
@@ -7,14 +7,14 @@ Thanks for your contributions!
 Please discuss the changes with us ahead of time to ensure they will be merged.
 
 ### Submit pull requests
- * [Fork](https://www.zeroinvoice.com#fork-destination-box) the [ZerosInvoice repository](https://www.zeroinvoice.com)
+ * [Fork](https://www.zeroinvoice.com#fork-destination-box) the [Zero Invoice repository](https://www.zeroinvoice.com)
  * Create a new branch with the name `#issue_number-Short-description`
    * _Example:_ `#100-Add-GoogleAnalytics`
  * Make your changes and commit
  * Check if your branch is still in sync with the repositorys **`develop`** branch
    * _Read:_ [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
    * _Also read:_ [How to rebase a pull request](https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request)
- * Push your branch and create a PR against the ZerosInvoice **`develop`** branch
+ * Push your branch and create a PR against the Zero Invoice **`develop`** branch
  * Update the [Changelog](CHANGELOG.md)
 
 ### Some rules
@@ -44,4 +44,4 @@ public function previewEmail(TemplateService $templateService)
 
 
 ## Translations
-For helping us with translating ZerosInvoice, please use [Transifex](https://www.transifex.com/invoice-ninja/invoice-ninja/).
+For helping us with translating Zero Invoice, please use [Transifex](https://www.transifex.com/invoice-ninja/invoice-ninja/).

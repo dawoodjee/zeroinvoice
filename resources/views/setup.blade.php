@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{App::getLocale()}}">
   <head>
-    <title>ZerosInvoice | Setup</title>
+    <title>Zero Invoice | Setup</title>
     <meta charset="utf-8">
     <meta name="csrf-token" content="<?= csrf_token() ?>">
     <script src="{{ asset('built.js') }}?no_cache={{ NINJA_VERSION }}" type="text/javascript"></script>
@@ -25,7 +25,7 @@
     <div class="col-md-8 col-md-offset-2">
 
     <div class="jumbotron">
-        <h2>ZerosInvoice Setup</h2>
+        <h2>Zero Invoice Setup</h2>
         @if (version_compare(phpversion(), '7.0.0', '<'))
             <div class="alert alert-warning">Warning: The application requires PHP >= 7.0.0</div>
         @endif

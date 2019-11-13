@@ -1,7 +1,7 @@
 Payments
 ========
 
-The ZerosInvoice system handles your entire invoicing process – from sending a quote (Pro Plan only), to invoicing your client, to receiving payment. What’s more, you can receive payments directly and automatically via ZerosInvoice’s 45+ payment partners, enabling totally smooth management of your customer accounts using your choice of payment provider. To learn more about ZerosInvoice’s payment partners, `click here <https://www.zeroinvoice.com/partners>`_.
+The Zero Invoice system handles your entire invoicing process – from sending a quote (Pro Plan only), to invoicing your client, to receiving payment. What’s more, you can receive payments directly and automatically via Zero Invoice’s 45+ payment partners, enabling totally smooth management of your customer accounts using your choice of payment provider. To learn more about Zero Invoice’s payment partners, `click here <https://www.zeroinvoice.com/partners>`_.
 
 List Payments
 """""""""""""
@@ -16,8 +16,8 @@ Overview
 
 The Payments list page displays a summary of all payments once they have been received. Payments are recorded in two ways:
 
-1. **Automatic payment**: If your client has paid you via any of ZerosInvoice’s 45+ payment partners, the payment will be automatically recorded in the Payments list. You will be notified by ZerosInvoice on your Dashboard page in the Payments table, and also via email (if you have chosen the relevant notification setting on the Settings / Notifications page).
-2. **Manual payment**: If your client has paid you via cash, check, bank transfer, credit card or any other payment system not linked to ZerosInvoice, you will need to enter the payment manually on the Payments / Create page.
+1. **Automatic payment**: If your client has paid you via any of Zero Invoice’s 45+ payment partners, the payment will be automatically recorded in the Payments list. You will be notified by Zero Invoice on your Dashboard page in the Payments table, and also via email (if you have chosen the relevant notification setting on the Settings / Notifications page).
+2. **Manual payment**: If your client has paid you via cash, check, bank transfer, credit card or any other payment system not linked to Zero Invoice, you will need to enter the payment manually on the Payments / Create page.
 
 Whether automatic or manual entry, the Payments list page presents an overview of all payments received in a user-friendly table format. Now, we’ll take you through the various columns in the Payments table from left to right:
 
@@ -71,7 +71,7 @@ To filter the Payments list, enter the filter data in the Filter field, situated
 Enter Payment
 """""""""""""
 
-Once you’ve received payment, you’ll need to enter the payment toon the ZerosInvoice system. If your client paid via one of ZerosInvoice’s 45+ payment partners, the system will automatically record the payment and send a downloadable PDF receipt to the client’s email address. If you were paid via cash, check, bank transfer, credit card, credit or any other payment method not automatically linked to the ZerosInvoice system, you will be required to manually enter the payment. The procedure of entering a payment manually is simple and lightning fast. Now, we’ll take you through the payment entry process, step by step.
+Once you’ve received payment, you’ll need to enter the payment toon the Zero Invoice system. If your client paid via one of Zero Invoice’s 45+ payment partners, the system will automatically record the payment and send a downloadable PDF receipt to the client’s email address. If you were paid via cash, check, bank transfer, credit card, credit or any other payment method not automatically linked to the Zero Invoice system, you will be required to manually enter the payment. The procedure of entering a payment manually is simple and lightning fast. Now, we’ll take you through the payment entry process, step by step.
 
 **Let’s Begin**
 

@@ -4,7 +4,7 @@ use App\Libraries\Utils;
 
 return [
 
-    'name' => env('APP_NAME', 'ZerosInvoice'),
+    'name' => env('APP_NAME', 'Zero Invoice'),
 
     /*
     |--------------------------------------------------------------------------

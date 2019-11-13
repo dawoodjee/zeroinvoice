@@ -1465,7 +1465,7 @@ class AccountController extends BaseController
                 'text' => $reason,
             ];
 
-            $subject = 'ZerosInvoice - Canceled Account';
+            $subject = 'Zero Invoice - Canceled Account';
 
             $this->userMailer->sendTo(env('CONTACT_EMAIL', CONTACT_EMAIL), $email, $name, $subject, 'contact', $data);
         }

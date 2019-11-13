@@ -273,7 +273,7 @@ $LANG = array(
     'erase_data' => 'Ihr Konto ist nicht registriert, diese Aktion wird Ihre Daten unwiderruflich löschen.',
     'password' => 'Passwort',
     'pro_plan_product' => 'Pro Plan',
-    'pro_plan_success' => 'Danke, dass Sie ZerosInvoice\'s Pro gewählt haben!<p/>&nbsp;<br/>
+    'pro_plan_success' => 'Danke, dass Sie Zero Invoice\'s Pro gewählt haben!<p/>&nbsp;<br/>
                           <b>Nächste Schritte</b>Eine bezahlbare Rechnung wurde an die Mailadresse,
                           welche mit Ihrem Account verbunden ist, geschickt. Um alle der umfangreichen
                           Pro Funktionen freizuschalten, folgen Sie bitte den Anweisungen in der Rechnung um ein Jahr
@@ -523,7 +523,7 @@ $LANG = array(
     'duplicate_post' => 'Achtung: Die vorherige Seite wurde zweimal übermittelt. Die zweite Übermittlung wurde ignoriert.',
     'view_documentation' => 'Dokumentation anzeigen',
     'app_title' => 'Kostenlose Online Open-Source Rechnungsausstellung',
-    'app_description' => 'InvoiceNinja ist eine kostenlose, quelloffene Lösung für die Rechnungsstellung und Abrechnung von Kunden. Mit ZerosInvoice kannst du einfach schöne Rechnungen erstellen und verschicken, von jedem Gerät mit Internetzugang. Deine Kunden können die Rechnungen drucken, als PDF Datei herunterladen und sogar online im System bezahlen.',
+    'app_description' => 'InvoiceNinja ist eine kostenlose, quelloffene Lösung für die Rechnungsstellung und Abrechnung von Kunden. Mit Zero Invoice kannst du einfach schöne Rechnungen erstellen und verschicken, von jedem Gerät mit Internetzugang. Deine Kunden können die Rechnungen drucken, als PDF Datei herunterladen und sogar online im System bezahlen.',
     'rows' => 'Zeilen',
     'www' => 'www',
     'logo' => 'Logo',
@@ -599,7 +599,7 @@ $LANG = array(
     'pro_plan_feature1' => 'Unlimitierte Anzahl Kunden erstellen',
     'pro_plan_feature2' => 'Zugriff auf 10 schöne Rechnungsdesigns',
     'pro_plan_feature3' => 'Benutzerdefinierte URLs - "DeineFirma.InvoiceNinja.com"',
-    'pro_plan_feature4' => '"Erstellt durch ZerosInvoice" entfernen',
+    'pro_plan_feature4' => '"Erstellt durch Zero Invoice" entfernen',
     'pro_plan_feature5' => 'Multi-Benutzer Zugriff & Aktivitätstracking',
     'pro_plan_feature6' => 'Angebote & pro-forma Rechnungen erstellen',
     'pro_plan_feature7' => 'Rechungstitelfelder und Nummerierung anpassen',
@@ -1033,7 +1033,7 @@ $LANG = array(
     'overdue' => 'Überfällig',
 
 
-    'white_label_text' => 'Kaufen Sie eine Ein-Jahres-"White Label"-Lizenz für $:price um das ZerosInvoice Branding von den Rechnungen und dem Kundenportal zu entfernen.',
+    'white_label_text' => 'Kaufen Sie eine Ein-Jahres-"White Label"-Lizenz für $:price um das Zero Invoice Branding von den Rechnungen und dem Kundenportal zu entfernen.',
     'user_email_footer' => 'Um deine E-Mail-Benachrichtigungen anzupassen besuche bitte :link',
     'reset_password_footer' => 'Wenn du das Zurücksetzen des Passworts nicht beantragt hast, benachrichtige bitte unseren Support: :email',
     'limit_users' => 'Entschuldige, das würde das Limit von :limit Benutzern überschreiten',
@@ -1193,11 +1193,11 @@ $LANG = array(
 
     'white_label_button' => 'White Label',
 
-    'pro_plan_year_description' => 'Einjährige Registrierung für den ZerosInvoice Pro-Plan.',
-    'pro_plan_month_description' => 'Einmonatliche Registrierung für den ZerosInvoice Pro-Plan.',
+    'pro_plan_year_description' => 'Einjährige Registrierung für den Zero Invoice Pro-Plan.',
+    'pro_plan_month_description' => 'Einmonatliche Registrierung für den Zero Invoice Pro-Plan.',
     'enterprise_plan_product' => 'Unternehmensplan',
-    'enterprise_plan_year_description' => 'Einjährige Registrierung für den ZerosInvoice Enterprise-Plan.',
-    'enterprise_plan_month_description' => 'Einmonatliche Registrierung für den ZerosInvoice Enterprise-Plan.',
+    'enterprise_plan_year_description' => 'Einjährige Registrierung für den Zero Invoice Enterprise-Plan.',
+    'enterprise_plan_month_description' => 'Einmonatliche Registrierung für den Zero Invoice Enterprise-Plan.',
     'plan_credit_product' => 'Gutschrift',
     'plan_credit_description' => 'Gutschrift für nicht genutzte Laufzeit',
     'plan_pending_monthly' => 'Wird zu monatlich am :date gewechselt',
@@ -1370,7 +1370,7 @@ Sobald Sie die Beträge erhalten haben, kommen Sie bitte wieder zurück zu diese
     'products_will_create' => 'Produkte werden erstellt werden',
     'product_key' => 'Produkt',
     'created_products' => ':count Produkt(e) erfolgreich erstellt bzw. aktualisiert',
-    'export_help' => 'Nutzen Sie JSON wenn Sie die Daten in ZerosInvoice importieren wollen.<br/>Die Datei beinhaltet Kunden, Produkte, Rechnungen, Angebote und Zahlungen.',
+    'export_help' => 'Nutzen Sie JSON wenn Sie die Daten in Zero Invoice importieren wollen.<br/>Die Datei beinhaltet Kunden, Produkte, Rechnungen, Angebote und Zahlungen.',
     'selfhost_export_help' => 'Wir empfehlen die Verwendung von mysqldump zur Herstellung einer vollständigen Sicherheitskopie.',
     'JSON_file' => 'JSON Datei',
 
@@ -1844,7 +1844,7 @@ Sobald Sie die Beträge erhalten haben, kommen Sie bitte wieder zurück zu diese
     'buy_now_buttons_disabled' => 'Diese Funktion setzt voraus, dass ein Produkt erstellt und ein Zahlungs-Gateway konfiguriert wurde.',
     'enable_buy_now_buttons_help' => 'Aktiviere Unterstützung für "Kaufe jetzt"-Buttons',
     'changes_take_effect_immediately' => 'Anmerkung: Änderungen treten sofort in Kraft',
-    'wepay_account_description' => 'Zahlungsanbieter für ZerosInvoice',
+    'wepay_account_description' => 'Zahlungsanbieter für Zero Invoice',
     'payment_error_code' => 'Bei der Bearbeitung Ihrer Zahlung [:code] gab es einen Fehler. Bitte versuchen Sie es später erneut.',
     'standard_fees_apply' => 'Standardgebühren werden erhoben: 2,9% + 0,25€ pro erfolgreicher Belastung bei nicht-europäischen Kreditkarten und 1,4% + 0,25€ bei europäischen Kreditkarten.',
     'limit_import_rows' => 'Daten müssen in Stapeln von :count Zeilen oder weniger importiert werden',
@@ -1871,8 +1871,8 @@ Sobald Sie die Beträge erhalten haben, kommen Sie bitte wieder zurück zu diese
     'bot_welcome' => 'Das war es schon, dein Account ist verifiziert.<br/>',
     'email_not_found' => 'Ich konnte keinen verfügbaren Account für :email finden',
     'invalid_code' => 'Der Code ist nicht korrekt',
-    'security_code_email_subject' => 'Sicherheitscode für ZerosInvoice Bot',
-    'security_code_email_line1' => 'Dies ist Ihr ZerosInvoice Bot Sicherheitscode.',
+    'security_code_email_subject' => 'Sicherheitscode für Zero Invoice Bot',
+    'security_code_email_line1' => 'Dies ist Ihr Zero Invoice Bot Sicherheitscode.',
     'security_code_email_line2' => 'Anmerkung: Er wird in 10 Minuten ablaufen.',
     'bot_help_message' => 'Ich unterstütze derzeit:<br/>• Erstellung\Aktualisierung\E-Mail-Versand von Rechnungen<br/>• Auflistung von Produkten<br/>Zum Beispiel:<br/><i>invoice bob for 2 tickets, set the due date to next thursday and the discount to 10 percent</i>',
     'list_products' => 'Produkte anzeigen',
@@ -1883,10 +1883,10 @@ Sobald Sie die Beträge erhalten haben, kommen Sie bitte wieder zurück zu diese
 
     'warning' => 'Warnung',
     'self-update' => 'Update',
-    'update_invoiceninja_title' => 'Update ZerosInvoice',
-    'update_invoiceninja_warning' => 'Vor dem Update von ZerosInvoice sollte ein Backup der Datenbank und der Dateien erstellt werden!',
-    'update_invoiceninja_available' => 'Eine neue Version von ZerosInvoice ist verfügbar.',
-    'update_invoiceninja_unavailable' => 'Keine neue Version von ZerosInvoice verfügbar.',
+    'update_invoiceninja_title' => 'Update Zero Invoice',
+    'update_invoiceninja_warning' => 'Vor dem Update von Zero Invoice sollte ein Backup der Datenbank und der Dateien erstellt werden!',
+    'update_invoiceninja_available' => 'Eine neue Version von Zero Invoice ist verfügbar.',
+    'update_invoiceninja_unavailable' => 'Keine neue Version von Zero Invoice verfügbar.',
     'update_invoiceninja_instructions' => 'Bitte benutze den <em>Update durchführen</em>-Button, um die neue Version <strong>:version</strong> zu installieren. Du wirst danach zum Dashboard weitergeleitet.',
     'update_invoiceninja_update_start' => 'Update durchführen',
     'update_invoiceninja_download_start' => 'Download :version',

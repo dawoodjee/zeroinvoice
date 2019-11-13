@@ -164,7 +164,7 @@ class ExportController extends BaseController
 
         $data = [
             'account' => $account,
-            'title' => 'ZerosInvoice v' . NINJA_VERSION . ' - ' . $account->formatDateTime($account->getDateTime()),
+            'title' => 'Zero Invoice v' . NINJA_VERSION . ' - ' . $account->formatDateTime($account->getDateTime()),
             'multiUser' => $account->users->count() > 1,
         ];
 

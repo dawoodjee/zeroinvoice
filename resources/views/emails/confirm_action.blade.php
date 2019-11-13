@@ -2,7 +2,7 @@
     {
         "@context":"http://schema.org",
         "@type":"EmailMessage",
-        "description":"Confirm your ZerosInvoice account",
+        "description":"Confirm your Zero Invoice account",
         "action":
         {
             "@type":"ConfirmAction",
@@ -13,7 +13,7 @@
             },
             "publisher": {
                 "@type": "Organization",
-                "name": "ZerosInvoice",
+                "name": "Zero Invoice",
                 "url": "{{{ NINJA_WEB_URL }}}"
             }
         }

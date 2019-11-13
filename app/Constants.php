@@ -1,7 +1,7 @@
 <?php
 
 if (! defined('APP_NAME')) {
-    define('APP_NAME', env('APP_NAME', 'ZerosInvoice'));
+    define('APP_NAME', env('APP_NAME', 'Zero Invoice'));
     define('APP_DOMAIN', env('APP_DOMAIN', 'zeroinvoice.com'));
     define('CONTACT_EMAIL', env('MAIL_FROM_ADDRESS'));
     define('CONTACT_NAME', env('MAIL_FROM_NAME'));
@@ -353,19 +353,19 @@ if (! defined('APP_NAME')) {
 
     define('REQUESTED_PRO_PLAN', 'REQUESTED_PRO_PLAN');
     define('NINJA_ACCOUNT_KEY', env('NINJA_ACCOUNT_KEY', 'zg4ylmzDkdkPOT8yoKQw9LTWaoZJx79h'));
-    define('NINJA_ACCOUNT_EMAIL', env('NINJA_ACCOUNT_EMAIL', 'contact@zeroinvoice.com'));
+    define('NINJA_ACCOUNT_EMAIL', env('NINJA_ACCOUNT_EMAIL', 'hello@zeroinvoice.com'));
     define('NINJA_LICENSE_ACCOUNT_KEY', 'AsFmBAeLXF0IKf7tmi0eiyZfmWW9hxMT');
     define('NINJA_GATEWAY_ID', GATEWAY_STRIPE);
     define('NINJA_GATEWAY_CONFIG', 'NINJA_GATEWAY_CONFIG');
     define('NINJA_WEB_URL', env('NINJA_WEB_URL', 'https://www.zeroinvoice.com'));
     define('NINJA_APP_URL', env('NINJA_APP_URL', 'https://app.zeroinvoice.com'));
-    define('NINJA_DOCS_URL', env('NINJA_DOCS_URL', 'https://invoice-ninja.readthedocs.io/en/latest'));
+    define('NINJA_DOCS_URL', env('NINJA_DOCS_URL', 'https://zeroinvoice.readthedocs.io/en/latest'));
     define('NINJA_DATE', '2000-01-01');
     define('NINJA_VERSION', '4.5.16' . env('NINJA_VERSION_SUFFIX'));
     define('NINJA_TERMS_VERSION', '1.0.1');
 
-    define('SOCIAL_LINK_FACEBOOK', env('SOCIAL_LINK_FACEBOOK', 'https://www.facebook.com/invoiceninja'));
-    define('SOCIAL_LINK_TWITTER', env('SOCIAL_LINK_TWITTER', 'https://twitter.com/invoiceninja'));
+    define('SOCIAL_LINK_FACEBOOK', env('SOCIAL_LINK_FACEBOOK', 'https://www.facebook.com/zeroinvoice'));
+    define('SOCIAL_LINK_TWITTER', env('SOCIAL_LINK_TWITTER', 'https://twitter.com/zero_invoice'));
     define('SOCIAL_LINK_GITHUB', env('SOCIAL_LINK_GITHUB', 'https://www.zeroinvoice.com/'));
 
     define('NINJA_FORUM_URL', env('NINJA_FORUM_URL', 'https://www.zeroinvoice.com/forums/forum/support/'));
@@ -604,7 +604,7 @@ if (! defined('APP_NAME')) {
     define('WEPAY_CLIENT_SECRET', env('WEPAY_CLIENT_SECRET'));
     define('WEPAY_AUTO_UPDATE', env('WEPAY_AUTO_UPDATE', false));
     define('WEPAY_ENVIRONMENT', env('WEPAY_ENVIRONMENT', WEPAY_PRODUCTION));
-    define('WEPAY_THEME', env('WEPAY_THEME', '{"name":"ZerosInvoice","primary_color":"0b4d78","secondary_color":"0b4d78","background_color":"f8f8f8","button_color":"33b753"}'));
+    define('WEPAY_THEME', env('WEPAY_THEME', '{"name":"Zero Invoice","primary_color":"0b4d78","secondary_color":"0b4d78","background_color":"f8f8f8","button_color":"33b753"}'));
 
     define('SKYPE_CARD_RECEIPT', 'message/card.receipt');
     define('SKYPE_CARD_CAROUSEL', 'message/card.carousel');

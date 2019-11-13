@@ -669,11 +669,11 @@ class ImportService
         if (count($data) > 0) {
             $headers = $data[0];
 
-            // Remove ZerosInvoice headers
+            // Remove Zero Invoice headers
             if (count($headers) && count($data) > 4) {
                 $firstCell = $headers[0];
                 if (strstr($firstCell, APP_NAME)) {
-                    array_shift($data); // ZerosInvoice...
+                    array_shift($data); // Zero Invoice...
                     array_shift($data); // <blank line>
                     array_shift($data); // Enitty Type Header
                 }

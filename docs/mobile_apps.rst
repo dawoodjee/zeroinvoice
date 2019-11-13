@@ -1,7 +1,7 @@
 Mobile Applications
 ===================
 
-The ZerosInvoice iPhone and Android applications allows a user to connect to their self-hosted ZerosInvoice web application.
+The Zero Invoice iPhone and Android applications allows a user to connect to their self-hosted Zero Invoice web application.
 
 .. TIP:: If you're unable to access the Android app store you can download the APK here: https://download.zeroinvoice.com/apk
 
@@ -10,13 +10,13 @@ Connecting your to your self-hosted zerosinvoice installation requires a couple 
 Web App configuration
 """""""""""""""""""""
 
-First, you'll need to add an additional field to your .env file which is located in the root directory of your self-hosted ZerosInvoice installation.
+First, you'll need to add an additional field to your .env file which is located in the root directory of your self-hosted Zero Invoice installation.
 
 The additional field to add is API_SECRET, set this to your own defined alphanumeric string.
 
 .. image:: images/env_file_api_secret.png
 
-Save your .env file and now open ZerosInvoice on your iPhone.
+Save your .env file and now open Zero Invoice on your iPhone.
 
 
 Mobile App configuration

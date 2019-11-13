@@ -1,7 +1,7 @@
 API Tokens
 ==========
 
-ZerosInvoice uses API tokens to enable access to third party providers, so you can streamline many of your invoicing and payments functions with our partners.
+Zero Invoice uses API tokens to enable access to third party providers, so you can streamline many of your invoicing and payments functions with our partners.
 
 Tokens
 """"""
@@ -30,9 +30,9 @@ To archive an existing token, click on the gray Select button in the Action colu
 Documentation
 ^^^^^^^^^^^^^
 
-Need some extra help? Click on the gray Documentation button directly above the API Tokens table, and you'll be redirected to https://www.zeroinvoice.com/api-documentation/. Here, you can read all about using API documentation in your ZerosInvoice account.
+Need some extra help? Click on the gray Documentation button directly above the API Tokens table, and you'll be redirected to https://www.zeroinvoice.com/api-documentation/. Here, you can read all about using API documentation in your Zero Invoice account.
 
 Zapier
 """"""
 
-ZerosInvoice proudly partners with https://zapier.com/ to provide seamless app connections for your ZerosInvoice activity. Check out various Zaps that deliver integrated functionality between ZerosInvoice and other apps to help you streamline your accounting. Click on the gray Zapier button, just to the right of the Documentation button, to find out more.
+Zero Invoice proudly partners with https://zapier.com/ to provide seamless app connections for your Zero Invoice activity. Check out various Zaps that deliver integrated functionality between Zero Invoice and other apps to help you streamline your accounting. Click on the gray Zapier button, just to the right of the Documentation button, to find out more.

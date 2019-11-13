@@ -1,7 +1,7 @@
 Client Portal
 =============
 
-The invoicing process is a two-way street. You bill the client; the client views and pays the invoice. Why not make it as easy as possible for you – and for your clients? This is the purpose of ZerosInvoice's Client Portal. With ZerosInvoice, you can choose to provide a portal for your clients where they can open and view your invoices, and even make payments, all via the ZerosInvoice website.
+The invoicing process is a two-way street. You bill the client; the client views and pays the invoice. Why not make it as easy as possible for you – and for your clients? This is the purpose of Zero Invoice's Client Portal. With Zero Invoice, you can choose to provide a portal for your clients where they can open and view your invoices, and even make payments, all via the Zero Invoice website.
 
 You can modify the Client Portal with a range of settings. To modify the client portal, go to Advanced Settings > Client Portal.
 

@@ -1,7 +1,7 @@
 API
 ===
 
-ZerosInvoice provides a RESTful API, `click here <https://app.zeroinvoice.com/api-docs#/>`_ to see the full list of methods available.
+Zero Invoice provides a RESTful API, `click here <https://app.zeroinvoice.com/api-docs#/>`_ to see the full list of methods available.
 
 To access the API you first need to create a token using the "API Tokens” page under "Advanced Settings”.
 
