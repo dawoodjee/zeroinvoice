@@ -26,7 +26,7 @@ class SupportNewPricing extends Migration
         DB::table('companies')->where('plan', 'enterprise')->where('plan_term', 'year')->update(['plan_price' => 100]);
         DB::table('companies')->where('plan', 'enterprise')->update(['num_users' => 5]);
 
-        // https://github.com/invoiceninja/invoiceninja/pull/955
+        // https://www.zeroinvoice.com/pull/955
         Schema::table('activities', function (Blueprint $table) {
             $table->integer('task_id')->after('invitation_id')->nullable();
             if (Schema::hasColumn('activities', 'client_id')) {
@@ -43,12 +43,12 @@ class SupportNewPricing extends Migration
             // do nothing
         }
 
-        // https://github.com/invoiceninja/invoiceninja/pull/950
+        // https://www.zeroinvoice.com/pull/950
         Schema::table('accounts', function (Blueprint $table) {
             $table->integer('start_of_week');
         });
 
-        // https://github.com/invoiceninja/invoiceninja/pull/959
+        // https://www.zeroinvoice.com/pull/959
         Schema::create('jobs', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('queue');

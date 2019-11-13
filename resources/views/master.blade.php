@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{App::getLocale()}}">
 <head>
-    <!-- Source: https://github.com/invoiceninja/invoiceninja -->
+    <!-- Source: https://www.zeroinvoice.com -->
     <!-- Version: {{ NINJA_VERSION }} -->
     @if (env('MULTI_DB_ENABLED'))
     <!-- Authenticated: {{ Auth::check() ? 'Yes' : 'No' }} -->

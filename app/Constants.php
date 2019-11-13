@@ -366,7 +366,7 @@ if (! defined('APP_NAME')) {
 
     define('SOCIAL_LINK_FACEBOOK', env('SOCIAL_LINK_FACEBOOK', 'https://www.facebook.com/invoiceninja'));
     define('SOCIAL_LINK_TWITTER', env('SOCIAL_LINK_TWITTER', 'https://twitter.com/invoiceninja'));
-    define('SOCIAL_LINK_GITHUB', env('SOCIAL_LINK_GITHUB', 'https://github.com/invoiceninja/invoiceninja/'));
+    define('SOCIAL_LINK_GITHUB', env('SOCIAL_LINK_GITHUB', 'https://www.zeroinvoice.com/'));
 
     define('NINJA_FORUM_URL', env('NINJA_FORUM_URL', 'https://www.zeroinvoice.com/forums/forum/support/'));
     define('NINJA_CONTACT_URL', env('NINJA_CONTACT_URL', 'https://www.zeroinvoice.com/contact/'));

@@ -34,7 +34,7 @@ The self-host zip includes all third party libraries whereas downloading the cod
 * [Docker File](https://hub.docker.com/r/invoiceninja/invoiceninja/)
 * [Cloudron](https://cloudron.io/store/com.invoiceninja.cloudronapp.html)
 * [Softaculous](https://www.softaculous.com/apps/ecommerce/Invoice_Ninja)
-* [Lando](https://github.com/invoiceninja/invoiceninja/issues/2880)
+* [Lando](https://www.zeroinvoice.com/issues/2880)
 
 ## Recommended Providers
 * [Stripe](https://stripe.com/)
@@ -68,7 +68,7 @@ For information on how contribute to ZerosInvoice, please see our [contributing 
 ## Credits
 * [Hillel Coren](https://hillelcoren.com/)
 * [David Bomba](https://github.com/turbo124)
-* [All contributors](https://github.com/invoiceninja/invoiceninja/graphs/contributors)
+* [All contributors](https://www.zeroinvoice.com/graphs/contributors)
 
 **Special thanks to:**
 * [Troels Liebe Bentsen](https://github.com/tlbdk)

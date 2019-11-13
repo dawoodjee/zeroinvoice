@@ -7,7 +7,7 @@ Thanks for your contributions!
 Please discuss the changes with us ahead of time to ensure they will be merged.
 
 ### Submit pull requests
- * [Fork](https://github.com/invoiceninja/invoiceninja#fork-destination-box) the [ZerosInvoice repository](https://github.com/invoiceninja/invoiceninja)
+ * [Fork](https://www.zeroinvoice.com#fork-destination-box) the [ZerosInvoice repository](https://www.zeroinvoice.com)
  * Create a new branch with the name `#issue_number-Short-description`
    * _Example:_ `#100-Add-GoogleAnalytics`
  * Make your changes and commit
@@ -19,7 +19,7 @@ Please discuss the changes with us ahead of time to ensure they will be merged.
 
 ### Some rules
 To make the contribution process nice and easy for anyone, please follow some rules:
- * Each contribution(bug or feature) should have an [issue on Github](https://github.com/invoiceninja/invoiceninja/issues)
+ * Each contribution(bug or feature) should have an [issue on Github](https://www.zeroinvoice.com/issues)
 to give a more detailed explanation.
  * Only one feature/bugfix per issue. If you want to submit more, create multiple issues.
  * Only one feature/bugfix per PR(pull request). Split more changes into multiple PRs.

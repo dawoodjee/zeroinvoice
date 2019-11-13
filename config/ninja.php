@@ -18,12 +18,12 @@ return [
     // Hosted plan coupons
     'coupon_50_off' => env('COUPON_50_OFF', false),
     'coupon_75_off' => env('COUPON_75_OFF', false),
-    'coupon_free_year' => env('COUPON_FREE_YEAR', false),
+    'coupon_free_year' => env('COUPON_FREE_YEAR', true),
 
     // Currency exchange rates
     'exchange_rates_enabled' => env('EXCHANGE_RATES_ENABLED', false),
     'exchange_rates_url' => env('EXCHANGE_RATES_URL', 'https://api.fixer.io/latest'),
-    'exchange_rates_base' => env('EXCHANGE_RATES_BASE', 'EUR'),
+    'exchange_rates_base' => env('EXCHANGE_RATES_BASE', 'USD'),
 
     // terms and privacy policy
     'terms_of_service_url' => [
