@@ -1,13 +1,13 @@
 Digital Ocean
 ===================
 
-Invoice Ninja has created a Digital Ocean Marketplace image with Invoice Ninja pre-installed.
+ZerosInvoice has created a Digital Ocean Marketplace image with ZerosInvoice pre-installed.
 
-To use this image, when creating a Droplet, choose **Marketplace** under the **Choose an image section**, and select the **Invoice Ninja on Ubuntu 18.04** image.
+To use this image, when creating a Droplet, choose **Marketplace** under the **Choose an image section**, and select the **ZerosInvoice on Ubuntu 18.04** image.
 
-This image includes Nginx, PHP 7.2, MySQL, Certbot, and Postfix, and it will automatically download the latest version of Invoice Ninja on the first boot. An auto-update script is also included to keep your Invoice Ninja installation up to date.
+This image includes Nginx, PHP 7.2, MySQL, Certbot, and Postfix, and it will automatically download the latest version of ZerosInvoice on the first boot. An auto-update script is also included to keep your ZerosInvoice installation up to date.
 
-After the server boots and installation has finished, you can visit your server's URL in a web browser to complete the Invoice Ninja setup process. The **Database Connection** section is pre-filled with connection information for the database and user that was created for you. We recommend installing an HTTPS certificate (see below) and setting the application URL, as well as configuring an external mail server before continuing.
+After the server boots and installation has finished, you can visit your server's URL in a web browser to complete the ZerosInvoice setup process. The **Database Connection** section is pre-filled with connection information for the database and user that was created for you. We recommend installing an HTTPS certificate (see below) and setting the application URL, as well as configuring an external mail server before continuing.
 
 HTTPS Certificate
 """"""""""""""""""""""""

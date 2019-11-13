@@ -26,7 +26,7 @@ A common error with shared hosting is "open_basedir restriction in effect", if y
 
 .. NOTE:: If you've downloaded the code from GitHub you also need to run ``composer install``
 
-.. TIP:: You can see the detailed changes for each release on our `GitHub release notes <https://github.com/invoiceninja/invoiceninja/releases>`_.
+.. TIP:: You can see the detailed changes for each release on our `GitHub release notes <https://github.com/proenterprise/zeroinvoice/releases>`_.
 
 Version 4.3
 """""""""""

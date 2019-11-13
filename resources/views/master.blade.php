@@ -16,13 +16,13 @@
         <title>{{ trans('texts.client_portal') }}</title>
         <link href="{{ asset('ic_cloud_circle.png') }}" rel="shortcut icon" type="image/png">
     @else
-        <title>{{ isset($title) ? ($title . ' | Invoice Ninja') : ('Invoice Ninja | ' . trans('texts.app_title')) }}</title>
+        <title>{{ isset($title) ? ($title . ' | ZerosInvoice') : ('ZerosInvoice | ' . trans('texts.app_title')) }}</title>
         <meta name="description" content="{{ isset($description) ? $description : trans('texts.app_description') }}"/>
         <link href="{{ asset('favicon-v2.png') }}" rel="shortcut icon" type="image/png">
 
-        <meta property="og:site_name" content="Invoice Ninja"/>
+        <meta property="og:site_name" content="ZerosInvoice"/>
         <meta property="og:url" content="{{ SITE_URL }}"/>
-        <meta property="og:title" content="Invoice Ninja"/>
+        <meta property="og:title" content="ZerosInvoice"/>
         <meta property="og:image" content="{{ SITE_URL }}/images/round_logo.png"/>
         <meta property="og:description" content="Simple, Intuitive Invoicing."/>
 
@@ -33,8 +33,8 @@
         <link rel="manifest" href="{{ url('manifest.json') }}">
         <link rel="mask-icon" href="{{ url('safari-pinned-tab.svg') }}" color="#3bc65c">
         <link rel="shortcut icon" href="{{ url('favicon.ico') }}">
-        <meta name="apple-mobile-web-app-title" content="Invoice Ninja">
-        <meta name="application-name" content="Invoice Ninja">
+        <meta name="apple-mobile-web-app-title" content="ZerosInvoice">
+        <meta name="application-name" content="ZerosInvoice">
         <meta name="theme-color" content="#ffffff">
     @endif
 

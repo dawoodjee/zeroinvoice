@@ -1,7 +1,7 @@
 Install
 =======
 
-Thanks for taking the time to setup Invoice Ninja.
+Thanks for taking the time to setup ZerosInvoice.
 
 .. Note:: The applications requires PHP 7.0, 7.1 or 7.2 and MySQL.
 
@@ -44,7 +44,7 @@ https://download.zeroinvoice.com
 
 .. Note:: All Pro and Enterprise features from our hosted app are included in both the zip file and the GitHub repository. We offer a $20 per year white-label license to remove our branding.
 
-- Release Notes: `github.com/invoiceninja/invoiceninja/releases <https://github.com/invoiceninja/invoiceninja/releases>`_
+- Release Notes: `github.com/proenterprise/zeroinvoice/releases <https://github.com/proenterprise/zeroinvoice/releases>`_
 
 Step 2: Upload the code to your server
 """"""""""""""""""""""""""""""""""""""

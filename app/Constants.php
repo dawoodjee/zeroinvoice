@@ -1,7 +1,7 @@
 <?php
 
 if (! defined('APP_NAME')) {
-    define('APP_NAME', env('APP_NAME', 'Invoice Ninja'));
+    define('APP_NAME', env('APP_NAME', 'ZerosInvoice'));
     define('APP_DOMAIN', env('APP_DOMAIN', 'zeroinvoice.com'));
     define('CONTACT_EMAIL', env('MAIL_FROM_ADDRESS'));
     define('CONTACT_NAME', env('MAIL_FROM_NAME'));
@@ -373,7 +373,7 @@ if (! defined('APP_NAME')) {
     define('NINJA_FROM_EMAIL', env('NINJA_FROM_EMAIL', 'maildelivery@zeroinvoice.com'));
     define('NINJA_IOS_APP_URL', 'https://itunes.apple.com/us/app/invoice-ninja/id1435514417?ls=1&mt=8');
     define('NINJA_ANDROID_APP_URL', 'https://play.google.com/store/apps/details?id=com.invoiceninja.flutter');
-    define('RELEASES_URL', env('RELEASES_URL', 'https://github.com/invoiceninja/invoiceninja/releases'));
+    define('RELEASES_URL', env('RELEASES_URL', 'https://github.com/proenterprise/zeroinvoice/releases'));
     define('ZAPIER_URL', env('ZAPIER_URL', 'https://zapier.com/zapbook/invoice-ninja'));
     define('OUTDATE_BROWSER_URL', env('OUTDATE_BROWSER_URL', 'http://browsehappy.com/'));
     define('PDFMAKE_DOCS', env('PDFMAKE_DOCS', 'http://pdfmake.org/playground.html'));
@@ -604,7 +604,7 @@ if (! defined('APP_NAME')) {
     define('WEPAY_CLIENT_SECRET', env('WEPAY_CLIENT_SECRET'));
     define('WEPAY_AUTO_UPDATE', env('WEPAY_AUTO_UPDATE', false));
     define('WEPAY_ENVIRONMENT', env('WEPAY_ENVIRONMENT', WEPAY_PRODUCTION));
-    define('WEPAY_THEME', env('WEPAY_THEME', '{"name":"Invoice Ninja","primary_color":"0b4d78","secondary_color":"0b4d78","background_color":"f8f8f8","button_color":"33b753"}'));
+    define('WEPAY_THEME', env('WEPAY_THEME', '{"name":"ZerosInvoice","primary_color":"0b4d78","secondary_color":"0b4d78","background_color":"f8f8f8","button_color":"33b753"}'));
 
     define('SKYPE_CARD_RECEIPT', 'message/card.receipt');
     define('SKYPE_CARD_CAROUSEL', 'message/card.carousel');

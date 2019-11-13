@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/hillelcoren/invoice-ninja/master/public/images/round_logo.png" alt="Sublime's custom image"/>
 </p>
 
-# Invoice Ninja
+# ZerosInvoice
 
 [![Build Status](https://travis-ci.org/invoiceninja/invoiceninja.svg?branch=master)](https://travis-ci.org/invoiceninja/invoiceninja)
 [![Docs](https://readthedocs.org/projects/invoice-ninja/badge/?version=latest)](https://invoice-ninja.readthedocs.io/en/latest/?badge=latest)
@@ -63,7 +63,7 @@ The self-host zip includes all third party libraries whereas downloading the cod
 
 ## Contributing
 All contributors are welcome!  
-For information on how contribute to Invoice Ninja, please see our [contributing guide](CONTRIBUTING.md).
+For information on how contribute to ZerosInvoice, please see our [contributing guide](CONTRIBUTING.md).
 
 ## Credits
 * [Hillel Coren](https://hillelcoren.com/)
@@ -85,5 +85,5 @@ For information on how contribute to Invoice Ninja, please see our [contributing
 * [Mike Skaggs](https://github.com/titan-fail)
 
 ## License
-Invoice Ninja is released under the Attribution Assurance License.  
+ZerosInvoice is released under the Attribution Assurance License.  
 See [LICENSE](LICENSE) for details.
